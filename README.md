@@ -1,7 +1,1 @@
-# HarshitSG
-
----
-
-# Harshit is my friend
-
----
+# collaborative project yet to come.
